@@ -7,3 +7,6 @@ Maneira fácil de remover paywall e banners de sites.
 Este Workflow executa um script em qualquer página da web e remove tais aborrecimentos que ficam na tela como paywall, cabeçalhos e rodapés (anúncios de cookies, por exemplo).
 
 <img width="416" alt="Alfred Preferences  Alfred Preferences  23 12 2021  18h57m57s" src="https://user-images.githubusercontent.com/7749461/147294631-46aacd88-cd96-4f41-816b-2ae45c8ba851.png">
+
+---
+# [Donate PayPal](https://paypal.me/gustavosaez) | [Doar via PayPal](https://paypal.me/gustavosaez)
